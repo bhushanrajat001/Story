@@ -1,1 +1,2 @@
 Completed chapter 1 about git init.
+Feature 1 changes applied.
