@@ -1,1 +1,3 @@
 Completed chapter 1 about git init.
+
+Master branch change in Chapter 1.
