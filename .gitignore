@@ -1,0 +1,4 @@
+secrets.txt
+
+# this is a comment in the gitignore file
+# *.txt ignore all txt files
